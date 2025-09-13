@@ -1,0 +1,49 @@
+class TTexts {
+  static String onBoardingTitle1 = "onBoardingTitle1";
+  static String onBoardingTitle2 = "onBoardingTitle2";
+  static String onBoardingTitle3 = "onBoardingTitle3";
+
+  static String onBoardingSubTitle1 = "onBoardingSubTitle1";
+  static String onBoardingSubTitle2 = "onBoardingSubTitle2";
+  static String onBoardingSubTitle3 = "onBoardingSubTitle3";
+
+  static String homeAppbarTitle = "homeAppbarTitle";
+  static String homeAppbarSubTitle = "homeAppbarSubTitle";
+  static String logoTitle = "logoTitle";
+  static String logoSubTitle = "logoSubTitle";
+  static String firstName = "First Name";
+  static String lastName = "Last Name";
+  static String email = "E-Mail";
+  static String password = "Password";
+  static String newPassword = "New Password";
+  static String username = "Username";
+  static String phoneNo = "Phone Number";
+  static String rememberMe = "Remember Me";
+  static String forgetPassword = "Forget Password";
+  static String signIn = "Sign In";
+  static String createAccount = "Create Account";
+  static String orSingInWith = "Or Sing In With";
+  static String orSingUpWith = "Or Sing Up With";
+  static String iAgreeTo = "I Agree To";
+  static String privacyPolicy = "Privacy Policy";
+  static String termsOfUse = "Terms Of Use";
+  static String verificationCode = "VerificationCode";
+  static String resendEmail = "Resend Email";
+  static String resendEmailIn = "Resend email in";
+  static String loginTitle = "loginTitle";
+  static String loginSubTitle = "loginSubTitle";
+  static String signupTitle = "signupTitle";
+  static String forgetPasswordTitle = "forgetPasswordTitle";
+  static String forgetPasswordSubTitle = "forgetPasswordSubTitle";
+  static String changeYourPasswordTitle = "changeYourPasswordTitle";
+  static String changeYourPasswordSubTitle = "changeYourPasswordSubTitle";
+  static String confirmEmail = "confirmEmail";
+  static String confirmEmailSubTitle = "confirmEmailSubTitle";
+  static String emailNotReceivedMessage = "emailNotReceivedMessage";
+  static String yourAccountCreatedTitle = "yourAccountCreatedTitle";
+  static String yourAccountCreatedSubTitle = "yourAccountCreatedSubTitle";
+  static String and = "and";
+  static String tContinue = "Continue";
+  static String submit = "Submit";
+  static String done = "Done";
+}
